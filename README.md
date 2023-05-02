@@ -8,7 +8,7 @@
 
 I used the https://pokeapi.co/ API / Vanilla JS, CCS and HTML to build the original 150 pokedex with pictures, types etc
 
-https://nikhils-pokedex.vercel.app/ - live website
+https://nikhil-pokedex.vercel.app/ - live website
 
 
 ![Picture1](assets/picture1.png)
